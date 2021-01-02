@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_71LXgEz-EeuaXa5gMtn0gg" type="UseCase" name="TEST_1" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_9ZEzMEz-EeuaXa5gMtn0gg" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9ZPyUEz-EeuaXa5gMtn0gg" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9ZPyUUz-EeuaXa5gMtn0gg" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9ZQZYEz-EeuaXa5gMtn0gg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_9ZTcsEz-EeuaXa5gMtn0gg" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9ZTcsUz-EeuaXa5gMtn0gg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9ZTcskz-EeuaXa5gMtn0gg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9ZTcs0z-EeuaXa5gMtn0gg"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="TEST_SQE.uml#_9Y07kEz-EeuaXa5gMtn0gg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9ZEzMUz-EeuaXa5gMtn0gg" x="220" y="120" width="201" height="81"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_71LXgUz-EeuaXa5gMtn0gg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_71LXgkz-EeuaXa5gMtn0gg"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_71LXg0z-EeuaXa5gMtn0gg" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="TEST_SQE.uml#_37lPwEz-EeuaXa5gMtn0gg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="TEST_SQE.uml#_37lPwEz-EeuaXa5gMtn0gg"/>
+</notation:Diagram>
